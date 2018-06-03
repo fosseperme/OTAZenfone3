@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
+    <Stable>
+        <zenfone3>
+            <Filename>RR-O-v6.0.0-20180603-zenfone3-Official.zip</Filename>
+            <RomUrl
+                id="rom"
+                title="Downloads"
+                description="Download latest builds">https://sourceforge.net/projects/resurrectionremix-oreo/files/z2_row/</RomUrl>
+            <ChangelogUrl
+                id="changelog"
+                title="Changelog"
+                description="View Changelog">https://hastebin.com/</ChangelogUrl>
+            <SlimGappsUrl
+            	id="gapps"
+            	title="Gapps"
+            	description="Download latest Open GApps">http://opengapps.org/</SlimGappsUrl>
+	    <zenfone3>
+    </Stable>
+</SlimOTA>
