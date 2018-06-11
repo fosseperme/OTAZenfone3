@@ -2,7 +2,7 @@
 <SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
     <Stable>
         <zenfone3>
-            <Filename>RR-O-v6.0.0-20180603-zenfone3-Official.zip</Filename>
+            <Filename>RR-O-v6.1.0-20180611-zenfone3-Official.zip</Filename>
             <RomUrl
                 id="rom"
                 title="Downloads"
@@ -10,7 +10,7 @@
             <ChangelogUrl
                 id="changelog"
                 title="Changelog"
-                description="View Changelog">https://hastebin.com/guqucevovu.diff</ChangelogUrl>
+                description="View Changelog">https://hastebin.com/exoxaludep.diff</ChangelogUrl>
             <SlimGappsUrl
             	id="gapps"
             	title="Gapps"
